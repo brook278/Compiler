@@ -1,6 +1,1 @@
-Name:
-Hours to complete project:
-Feedback:
-
-
-External Sources (Attributions):
+Compiler for simple programming language (LOLCode).
